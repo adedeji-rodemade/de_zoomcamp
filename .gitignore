@@ -1,4 +1,14 @@
 yellow_tripdata_2021-01.csv
 green_tripdata_2019-10.csv
+
+# ignore all .csv files
 *.csv
+
+# ignore credential keys
 .json
+
+# Ignore all .parquet files
+*.parquet
+
+# Ignore Terraform provider files
+terraform_demo/.terraform/providers/*
