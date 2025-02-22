@@ -12,3 +12,4 @@ green_tripdata_2019-10.csv
 
 # Ignore Terraform provider files
 terraform_demo/.terraform/providers/*
+terraform_demo/.terraform.lock.hcl
